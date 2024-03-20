@@ -1,0 +1,188 @@
+body {
+    font-family: 'poppins';
+}
+nav {
+    background-color: #DEEFE7;
+    height: 80px;
+    width: 100%;
+}
+.logo {
+    margin-left: 100px;
+}
+.logo img {
+    margin-top: 18px;
+}
+.src {
+    margin-left: 400px;
+    margin-top: -45px;
+}
+.src-in {
+    padding: 12px;
+    width: 450px;
+    border-radius: 25px;
+    font-size: 18px;
+    border: none;
+}
+.fa-magnifying-glass {
+    padding: 12px;
+    border-radius: 50px;
+    background-color: orangered;
+    color: white;
+    margin-left: -52px;
+}
+.fa-magnifying-glass:hover {
+    background-color: #00939C;
+}
+.icon {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.location {
+    margin-left: 1100px;
+    margin-top: -50px;
+}
+.fa-location-dot {
+    background-color: #F2D5C4;
+    color: orangered;
+    border-radius: 60px;
+    padding: 15px;
+}
+.fa-location-dot:hover {
+    background-color: orangered;
+    color: white;
+}
+.bag {
+    margin-top: -50px;
+    margin-left: -30px;
+}
+.fa-bag-shopping {
+    background-color: #F2D5C4;
+    color: orangered;
+    border-radius: 60px;
+    padding: 15px;
+}
+.fa-bag-shopping:hover {
+    background-color: orangered;
+    color: white;
+}
+.zr {
+    margin-top: -55px;
+    margin-left: 30px;
+}
+.zero {
+    background-color: orangered;
+    color: white;
+    border-radius: 50px;
+    padding: 2px;
+    font-size: 11px;
+    margin-top: -60px;
+}
+.user {
+    margin-top: -50px;
+    margin-left: -30px;
+}
+.fa-user {
+    background-color: #F2D5C4;
+    color: orangered;
+    border-radius: 60px;
+    padding: 15px; 
+}
+.fa-user:hover {
+    background-color: orangered;
+    color: white;
+}
+.nav-2 {
+    background-color: #DEEFE7;
+    height: 50px;
+    width: 100%;
+}
+.btn-group {
+    margin-left: 150px;
+}
+.carousel-item img {
+    height: 500px;
+    width: 1100px;
+    border-radius: 10px;
+    margin-left: 140px;
+}
+.deal-sec {
+    background-image: url(images/header-offer-bg.jpg);
+    height: 300px;
+    width: 1100px;
+    border-radius: 10px;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+.heading h1 {
+    /* text-align: center; */
+}
+.heading {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.deal-all {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.deal {
+    background-color: white;
+    height: 130px;
+    width: 510px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.deal-img img {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.deal-img:hover {
+    transform: scale(1.1);
+}
+.noise p {
+    margin-left: -110px;
+    margin-top: 43px;
+    font-family: 'poppins';
+    font-weight: 600;
+}
+.price {
+    margin-left: 115px;
+    margin-top: -60px;
+}
+.fa-bangladeshi-taka-sign {
+    color: #00939C;
+    font-weight: 700;
+}
+.price p {
+    margin-left: 15px;
+    margin-top: -23px;
+    color: #00939C;
+    font-weight: 700;
+}
+.ari-prd {
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.air-rel {
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 0px;
+}
+.airpod img {
+    height: 180px;
+    width: 420px;
+    border-radius: 10px;
+}
+.realme img {
+    height: 180px;
+    width: 640px;
+    border-radius: 10px;
+    margin-left: -70px;
+}
+

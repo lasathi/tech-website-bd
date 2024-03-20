@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--_SIG=x0xOnHr1e0rQqIPyIHUg7OoGmWTypgX7IGtQ1bRMv4t2cW6stW88vCUo628u+/kmVK0jkz6SxFOQuWFlfLPcRpOk2C7adO9BMGSGbw+6mcxWUCqkvVDbi8YsxWqQ/c2ti/ZhQI0HLk4zSoajf77ckV+Z3yRmfKIWpeu3/jKIpSg=-->
+<Package Id="AccessMUISet.en-us" Type="MSI" Path="AccessMUISet.MSI" Version="1.0" ProductCode="{90140000-0117-0409-0000-0000000FF1CE}" MSIVersion="14.0.4734.1000" Platform="x86">
+	<Feature Id="Gimme_OnDemandData" Cost="0">
+		<OptionRef Id="Gimme_OnDemandData"/>
+	</Feature>
+	<Feature Id="SetupXmlFiles" Cost="468">
+		<OptionRef Id="AlwaysInstalled"/>
+	</Feature>
+	<Feature Id="SetupControllerFiles" Cost="468">
+		<OptionRef Id="AlwaysInstalled"/>
+	</Feature>
+	<Feature Id="MsoInstalledPackagesScopedIntl_1033" Cost="0">
+		<OptionRef Id="AlwaysInstalled"/>
+	</Feature>
+</Package>
